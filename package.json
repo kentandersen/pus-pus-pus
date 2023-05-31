@@ -1,0 +1,6 @@
+{
+  "name": "pus-pus-pus",
+  "workspaces": [
+    "clients/*"
+  ]
+}
